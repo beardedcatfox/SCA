@@ -35,6 +35,10 @@ docker run -it \
   --env-file .env \
   spy-cat-app
 ```
+### Swagger and ReDoc:
+> http://localhost:8000/api/swagger/
+> 
+> http://localhost:8000/api/redoc/
 
 ## Postman collection link
 https://www.postman.com/beardedcat/workspace/910593e5-46c6-43b4-8ccb-2ad17586fa70/share?collection=26460439-cb97e9cd-2dab-4d9e-b4a9-f3a65f6f4150&target=link
